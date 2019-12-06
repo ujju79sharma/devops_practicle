@@ -58,7 +58,7 @@ int main()
 					break;
 				case 5:
 					cout<<"Exiting Application........"<<endl;
-					exit(0);
+					return 0;
 			  }
 	}
 }
